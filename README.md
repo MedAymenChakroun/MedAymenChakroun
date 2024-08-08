@@ -74,25 +74,25 @@ Here are some ideas to get you started:
 
   ## 🛠 Tech Stack
 
-- 🔧 CI/CD & Version Control: Jenkins | BitBucket | Git | GitHub | Bitbucket Pipeline.
+- 🔧 <b>CI/CD & Version Control:</b> Jenkins | BitBucket | Git | GitHub | Bitbucket Pipeline.
 
-- 🔧 Configuration Management & Customization: Ansible | Kustomize.
+- 🔧 <b>Configuration Management & Customization:</b> Ansible | Kustomize.
 
-- 🔧 DevSecOps Tools: Aqua Security | Trivy | Cosign | Talisman.
+- 🔧 <b>DevSecOps Tools:</b> Aqua Security | Trivy | Cosign | Talisman.
 
-- 🔧 Containerization & Orchestration: Kubernetes | Docker | Docker Compose | Rancher.
+- 🔧 <b>Containerization & Orchestration:</b> Kubernetes | Docker | Docker Compose | Rancher.
 
-- 🔧 Cloud Infrastructure: AWS | Azure | OpenStack.
+- 🔧 <b>Cloud Infrastructure:</b> AWS | Azure | OpenStack.
   
-- 🔧 Infrastructure as Code (IaC): Terraform | AWS | CloudFormation.
+- 🔧 <b>Infrastructure as Code (IaC):</b> Terraform | AWS | CloudFormation.
   
-- 🔧 Monitoring & Logging: Prometheus | Grafana.
+- 🔧 <b>Monitoring & Logging:</b> Prometheus | Grafana.
   
-- 🔧 GitOps & Kubernetes Management: ArgoCD | Kyverno | KSOPS.
+- 🔧 <b>GitOps & Kubernetes Management:</b> ArgoCD | Kyverno | KSOPS.
   
-- 🔧 Scripting Languages: Python | Bash | YAML.
+- 🔧 <b>Scripting Languages:</b> Python | Bash | YAML.
   
-- 🛢 Databases: MongoDB | MySQL | PostgreSQL.
+- 🛢 <b>Databases:</b> MongoDB | MySQL | PostgreSQL.
 
 </div>
 
