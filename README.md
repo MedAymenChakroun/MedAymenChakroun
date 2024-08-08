@@ -64,8 +64,8 @@ Here are some ideas to get you started:
 -->
 
   ## 🤝‍ About Me 
-- 🎓 Alumnus of Computer Science Engineering from <b>`ESPRIT Higher School of Engineering`</b>  
-- 🌱 Currently developing and implementing a robust <b>`DevSecOps pipeline`</b>  for Workbench-cms, enhancing security, optimizing performance, and modernizing <b>`multi-environment deploymentss`</b> .
+- 🎓 Soon to be a graduate of Computer Science Engineering from <b>`ESPRIT Higher School of Engineering`</b>  
+- 🌱 Currently developing and implementing a robust <b>`DevSecOps pipeline`</b>  for Workbench-cms, enhancing security, optimizing performance, and modernizing <b>`multi-environment deployments`</b> .
 - 💜 Looking forward to learn more about <b>`Golang`</b> programming language.
 - 🎮 Coding by day 🌞, gaming by night 🌙.
 - 😎 Visit my linkedin profile: **[aymen-linkedin](https://www.linkedin.com/in/medaymenchakroun/)**
