@@ -26,7 +26,7 @@
 
 ## 🚀 About Me
 
-I'm a **Cloud & DevOps Engineer** who transforms complex infrastructure challenges into automated, secure, and scalable solutions. My journey began in **Electrical Engineering**, where I learned to think in systems—a mindset that now drives how I architect cloud-native infrastructure.
+I'm a **Cloud & DevOps Engineer** who transforms complex infrastructure challenges into automated, secure, and scalable solutions. My journey began in **Electrical Engineering**, where I learned to think in systems a mindset that now drives how I architect cloud-native infrastructure.
 
 ```yaml
 current_focus:
