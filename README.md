@@ -91,8 +91,6 @@ available_for:
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MedAymenChakroun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MedAymenChakroun&theme=react)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MedAymenChakroun&theme=tokyonight&hide_border=true)
